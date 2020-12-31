@@ -3,5 +3,6 @@
 
 Olá! Bem vindo ao livro de receitas.
 
- - Estrogonofe de Palmito
+ - Strogonoff de Palmito
  - Pavê
+ 
